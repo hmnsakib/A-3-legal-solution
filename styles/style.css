@@ -1,0 +1,16 @@
+/* common styles  */
+* {
+    margin: 0px;
+    font-family: "Poppins", sans-serif;
+}
+.header {
+    background-image: url(../images/banner.png);
+}
+h1,
+h2,
+h3 {
+    font-family: "EB Garamond", serif;
+}
+.accordion-content {
+    transition: max-height 0.3s ease-out, padding 0.3s ease;
+}
